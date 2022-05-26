@@ -127,6 +127,8 @@ __?dh__ - !game Dread Hunger
  
 __?dbd__ - !game Dead by Daylight 
  
+__?gp__ - !game Gartic Phone  
+ 
 # Fun 
   
 __?%__ - рандомный процент
