@@ -97,8 +97,36 @@ __?host <@nick>__ - хост
   
 __?unhost__ - анхост 
   
-__-----------------------------------------------------------------------------------------------------------------------------------------------------------__    
+__-----------------------------------------------------------------------------------------------------------------------------------------------------------__  
+ 
+__категории__
+ 
+__?jc__ - !game Just Chatting
+ 
+__?cs__ - !game CS:GO
+ 
+__?vc__ - !game Virtual Casino
+ 
+__?mine__ - !game Minecraft
+ 
+__?dota__ - !game Dota 2
+ 
+__?sleep__ - !game Im Only Sleeping
+ 
+__?marble__ - !game Marbles On Stream 
+ 
+__?gta__ - !game Grand The Auto V
+ 
+__?among__ - !game Among Us
+ 
+__?poli__ - !game Politics
+ 
+__?music__ - !game Music 
   
+__?dh__ - !game Dread Hunger 
+ 
+__?dbd__ - !game Dead by Daylight 
+ 
 # Fun 
   
 __?%__ - рандомный процент
