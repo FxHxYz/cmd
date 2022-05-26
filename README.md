@@ -117,6 +117,8 @@ __?marble__ - !game Marbles On Stream
  
 __?gta__ - !game Grand The Auto V
  
+__?fort__ - !game Fortnite
+ 
 __?among__ - !game Among Us
  
 __?poli__ - !game Politics
