@@ -9,7 +9,7 @@ __?echo | !echo__ - echo
 
 __?randomcolor__ - random hex color
   
-__?color <#color>__ - сменить цвет ника боту
+__?color <#color>__ - сменить цвет ника
   
 __?add <фраза>__ - добавить фразу в список банвордов бота 
 
