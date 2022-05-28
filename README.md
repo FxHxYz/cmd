@@ -130,6 +130,14 @@ __?dh__ - !game Dread Hunger
 __?dbd__ - !game Dead by Daylight 
  
 __?gp__ - !game Gartic Phone  
+
+__?vl__ - !game Valorant
+
+__?pubg__ - !game Pubg
+
+__?osu__ - !game osu
+
+__?apex__ - !game Apex
  
 # Fun 
   
