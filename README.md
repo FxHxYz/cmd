@@ -160,6 +160,8 @@ __?random__ - рандом число
 __?8ball <вопрос>__ - 8ball  
   
 __?sex <@user>__ - sex
+
+__?roulette__ - русская рулетка (мут 600сек.)
   
 __?love <@user>__ - love
   
